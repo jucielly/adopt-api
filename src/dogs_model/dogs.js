@@ -3,7 +3,7 @@ const breeds = require('./dogsBreeds');
 
 faker.locale = 'pt_BR';
 
-const totalDogs = 200;
+const totalDogs = 400;
 
 const breedsArray = Object.keys(breeds);
 
